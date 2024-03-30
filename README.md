@@ -46,6 +46,3 @@ Instale as dependências usando o pip:
 Execute o aplicativo:
 
   python app.py
-bash
-
-
