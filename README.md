@@ -44,7 +44,6 @@ Este programa permite aos usuários registrar refeições feitas, editar, exclui
   ```bash
   pip install -r requirements.txt
 
-
 3. Execute o aplicativo:
    
   ```bash
