@@ -38,15 +38,11 @@ Este programa permite aos usuários registrar refeições feitas, editar, exclui
 
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
-
-Instale as dependências usando o pip:
-
-bash
-
-pip install -r requirements.txt
-
-Execute o aplicativo:
-
-bash
-
-python app.py
+   
+   Instale as dependências usando o pip:
+   
+   pip install -r requirements.txt
+   
+   Execute o aplicativo:
+   
+   python app.py
