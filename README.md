@@ -34,15 +34,19 @@ Este programa permite aos usuários registrar refeições feitas, editar, exclui
 
 ## Instalação
 
-1. Clone o repositório para o seu ambiente local:
+1. **Clone o repositório para o seu ambiente local:**
 
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   
-   Instale as dependências usando o pip:
-   
-   pip install -r requirements.txt
-   
-   Execute o aplicativo:
-   
-   python app.py
+
+    Instale as dependências usando o pip:
+
+    bash
+
+    pip install -r requirements.txt
+
+    Execute o aplicativo:
+
+    bash
+
+    python app.py
