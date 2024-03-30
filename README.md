@@ -41,11 +41,11 @@ Este programa permite aos usuários registrar refeições feitas, editar, exclui
 
 2. Instale as dependências usando o pip:
 
-   ```bash
-pip install -r requirements.txt
+  ```bash
+  pip install -r requirements.txt
 
 
 3. Execute o aplicativo:
    
-   ```bash
-python app.py
+  ```bash
+  python app.py
